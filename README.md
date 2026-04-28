@@ -1,6 +1,6 @@
 ## Yousef Aldahash
 
-👨‍💻 Computer Engineer | AI & Computer Vision   
+👨‍💻 Computer Engineer | AI   
 
 Welcome to my portfolio showcasing practical AI projects that solve real-world problems.  
 
